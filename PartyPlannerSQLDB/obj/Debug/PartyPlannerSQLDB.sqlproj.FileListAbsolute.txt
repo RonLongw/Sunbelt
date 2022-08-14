@@ -1,0 +1,10 @@
+C:\Ron_Sunbelt\PartyPlannerSQLDB\bin\Debug\PartyPlannerSQLDB.dacpac
+C:\Ron_Sunbelt\PartyPlannerSQLDB\bin\Debug\PartyPlannerSQLDB.dll
+C:\Ron_Sunbelt\PartyPlannerSQLDB\bin\Debug\PartyPlannerSQLDB.pdb
+C:\Ron_Sunbelt\PartyPlannerSQLDB\obj\Debug\PartyPlannerSQLDB.sqlproj.AssemblyReference.cache
+C:\Ron_Sunbelt\PartyPlannerSQLDB\obj\Debug\Model.xml
+C:\Ron_Sunbelt\PartyPlannerSQLDB\obj\Debug\refactor.xml
+C:\Ron_Sunbelt\PartyPlannerSQLDB\obj\Debug\postdeploy.sql
+C:\Ron_Sunbelt\PartyPlannerSQLDB\obj\Debug\predeploy.sql
+C:\Ron_Sunbelt\PartyPlannerSQLDB\obj\Debug\PartyPlannerSQLDB.dll
+C:\Ron_Sunbelt\PartyPlannerSQLDB\obj\Debug\PartyPlannerSQLDB.pdb
